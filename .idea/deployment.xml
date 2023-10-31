@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="nf438@172.18.148.74:22 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="nc438@172.18.225.100:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="nd438@172.21.148.82:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/fsj/lowLight/PSENetProgressiveSelfEnhancementNetworkforUnsupervisedExtremeLightImageEnhancement" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ne438@172.20.94.236:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="nf438@172.18.148.74:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/code/new/PSENet_Progressive_Self_Enhancement_Network_for_Unsupervised_Extreme_Light_Image_Enhancement" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
